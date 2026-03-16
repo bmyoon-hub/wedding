@@ -466,7 +466,7 @@
     if (kakao) kakao.href = w.mapLinks.kakao;
     if (naver) naver.href = w.mapLinks.naver;
 
-    const copyBtn = $('#btn-copy-address');
+    const copyBtn = $('#loc-address');
     if (copyBtn) {
       copyBtn.addEventListener('click', () => {
         copyToClipboard(w.address, '주소가 복사되었습니다');
