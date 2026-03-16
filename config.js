@@ -47,8 +47,8 @@ const CONFIG = {
     address: "서울특별시 강남구 청담동 123-45",
     tel: "02-1234-5678",
     mapLinks: {
-      kakao: "https://map.kakao.com/",
-      naver: "https://map.naver.com/",
+      kakao: "https://map.kakao.com/u27H2yJRTk",
+      naver: "https://naver.me/5ne4oSX1",
     },
   },
 
